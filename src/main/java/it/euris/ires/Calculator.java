@@ -25,6 +25,7 @@ public class Calculator {
 		return a / b;
 	}
 
+	//MAIN
 	public static void main(String[] args) throws Exception {
 		Calculator c = new Calculator();
 		System.out.println(c.division(10, 7));
